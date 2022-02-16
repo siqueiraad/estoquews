@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\andre.siqueira\eclipse-workspace\ws-estoqueSoap\.metadata\.plugins\org.eclipse.jdt.core
+2573528583.index
+586513807.index
+1709105283.index
+2697512602.index
+2846895863.index
+1318977448.index
+2994743539.index
+1611322386.index
+415199016.index
+2083622934.index
+2244663931.index
+3929098802.index
+1865797976.index
+4259444642.index
+4054344860.index
+3864535264.index
+3121622247.index
+2439743953.index
+2661924813.index
+384251111.index
+2225902487.index
+3229097113.index
