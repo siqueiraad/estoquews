@@ -2,4 +2,10 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
     <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessType"/>
+    <fullyQualifiedTypeName name="br.com.caelum.estoque.modelo.item.ListaItens"/>
 </qualifiedTypeNameHistroy>
